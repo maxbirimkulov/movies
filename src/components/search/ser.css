@@ -1,0 +1,19 @@
+.search__btn{
+    position: absolute;
+    top: 0;
+    right: 10px;
+}
+
+.radio__btns{
+    display: flex;
+    justify-content: space-between;
+}
+
+.search__pages{
+    display: flex;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    column-gap: 10px;
+}

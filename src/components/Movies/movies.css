@@ -1,0 +1,11 @@
+.movies{
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 20px;
+
+}
+
+.movies__img{
+     width: 100%;
+     height: auto;
+ }
